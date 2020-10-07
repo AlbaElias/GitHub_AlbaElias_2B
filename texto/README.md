@@ -2,6 +2,6 @@
 Práctica de creación de repositorio
 
 
-local y remoto.
+local y remoto
 
 
